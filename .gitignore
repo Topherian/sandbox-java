@@ -13,13 +13,12 @@ HELP.md
 .sts4-cache
 
 ### IntelliJ IDEA ###
-**/.idea/**
-.idea/**
+.idea
 *.iws
 *.iml
 *.ipr
 /out/
-
+*.git
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
